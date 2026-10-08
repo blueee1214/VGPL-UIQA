@@ -1,3 +1,8 @@
 # VGPL-UIQA
 Implementation of "Leveraging Vision-Language Model and Progressive Visual-Guided Prompt Learning for Underwater Image Quality Assessment"
-\begin{center} {\LARGE \textbf{VGPL-UIQA}}\\[0.5em] {\large \textbf{Leveraging Vision-Language Model and Progressive Visual-Guided Decoupled Prompt Learning for Underwater Image Quality Assessment}} \end{center} \vspace{1em} \section*{Overview} This repository contains the official implementation of \textbf{VGPL-UIQA}, a vision-language framework for \textbf{Underwater Image Quality Assessment (UIQA)}. Underwater images often suffer from complex degradations, including color distortion, haze, blur, noise, and visibility loss. Existing image quality assessment methods mainly rely on visual representations and may struggle to distinguish scene semantics from distortion characteristics. To address these challenges, we propose \textbf{VGPL-UIQA}, which progressively aligns visual representations with decoupled scene and distortion semantics at different levels of abstraction. The framework is driven by a \textbf{Progressive Visual-Guided Decoupled Text Encoding (PVGDTE)} strategy.
+
+We propose **VGPL-UIQA**, a vision-language framework for underwater image quality assessment (UIQA). The proposed method progressively aligns visual features with **decoupled scene and distortion semantics**, enabling the model to better capture both local degradation cues and global scene information for quality prediction.
+
+The paper has been accepted for publication. **The paper and source code will be publicly released upon publication.**
+
+Stay tuned!
